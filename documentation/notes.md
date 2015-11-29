@@ -6,7 +6,7 @@ Individual Collections Data and Endpoints
 - [British Museum - LOD](http://collection.britishmuseum.org/)
 - [Freie Universitat Berlin - Degenerate Art Database](http://www.geschkult.fu-berlin.de/en/e/db_entart_kunst/datenbank/index.html)
 - [Tate Gallery](https://github.com/tategallery/collection)
-- [Whitney Museum Collection (could use scraping)[http://collection.whitney.org/]
+- [Whitney Museum Collection (could use scraping)](http://collection.whitney.org/)
 
 Intitiatives and Aggregations
 =============================
@@ -40,4 +40,3 @@ Other/Related/Misc.
 - [Database of Art Auction Results (ugh! pay to play)](https://www.artnet.com/price-database/)
 - [List of Price Databases](http://nylibrary.sothebysinstitute.com/rr_eresources_pricedb.html)
 - [Getty Union List of Artist Names](http://www.getty.edu/research/tools/vocabularies/ulan/)
-- 
