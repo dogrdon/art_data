@@ -40,3 +40,12 @@ Other/Related/Misc.
 - [Database of Art Auction Results (ugh! pay to play)](https://www.artnet.com/price-database/)
 - [List of Price Databases](http://nylibrary.sothebysinstitute.com/rr_eresources_pricedb.html)
 - [Getty Union List of Artist Names](http://www.getty.edu/research/tools/vocabularies/ulan/)
+
+Exploration/Questions/Hypothesis
+================================
+
+- Comparing collections - same works of art in different collections 
+- Frequencies of works by artist by collection
+- Exploring the different representation of works of are across collections 
+- Moving through collections and grabbing art market prices where available (average prices? Going to be difficult since this data is pretty well locked down behind paywalls, and has a limited historical range)
+- 
