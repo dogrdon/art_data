@@ -46,6 +46,12 @@ Exploration/Questions/Hypothesis
 
 - Comparing collections - same works of art in different collections 
 - Frequencies of works by artist by collection
-- Exploring the different representation of works of are across collections 
+- Exploring the different representation of works of are across collections
 - Moving through collections and grabbing art market prices where available (average prices? Going to be difficult since this data is pretty well locked down behind paywalls, and has a limited historical range)
-- 
+- Tracking, repurposing art that falls withing the category of "[database aesthetics](http://www.upress.umn.edu/book-division/books/database-aesthetics)."
+- Linked Data for artworks (making apparent the history underlying a work of art.)
+- Computational Art History
+	* http://lab.softwarestudies.com/2014/02/an-outline-for-computational-art-history.html
+	* https://docs.google.com/document/d/1oHn0Ydno50TPHApKDnNM308RRZBa-iWp398Jx4i1t-o/edit
+	* http://www.icassp2014.org/final200614/er2/0001/index.html
+
