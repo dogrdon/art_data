@@ -2,6 +2,7 @@ Individual Collections Data and Endpoints
 =============================
 
 - [MoMA Collection Data](https://github.com/MuseumofModernArt/collection)
+- [MoMA Exhibition Data](https://github.com/MuseumofModernArt/exhibitions)
 - [Penn Museum](http://www.penn.museum/collections/data.php)
 - [British Museum - LOD](http://collection.britishmuseum.org/)
 - [Freie Universitat Berlin - Degenerate Art Database](http://www.geschkult.fu-berlin.de/en/e/db_entart_kunst/datenbank/index.html)
